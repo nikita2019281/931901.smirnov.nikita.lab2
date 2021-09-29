@@ -1,0 +1,39 @@
+aside
+		{
+			width: 190px;
+			height: 100%;
+			float: left;
+			background-color: #C8FC98;
+			margin: 0px;
+			margin-right: 5px;
+			padding-left: 5px;
+			padding-top: 3px;
+			padding-bottom: 10px;
+		}
+		header
+		{
+			background-color: #EAEAEA;
+			margin: 0px;
+			height: 80px;
+			font-size: 2em;
+		}
+		footer 
+		{
+			margin-top: 575px;
+			background-color: #000000;
+			text-align: center;
+			height: 30px;
+			padding-top: 7px;
+		}
+		a
+		{
+			color: #FDE95E;
+		}
+		i
+		{
+			color: red;
+		}
+		section
+		{
+			font-size: 0.9em;
+		}

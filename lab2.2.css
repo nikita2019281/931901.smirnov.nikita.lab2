@@ -1,0 +1,54 @@
+		header
+		{
+			background-color: #EAEAEA;
+			margin: 0px;
+			height: 80px;
+			font-size: 2em;
+		}
+		aside:first-child
+		{
+			width: 21%;
+			float: left;
+			background-color: #C8FC98;
+			padding-top: 0px; 
+			padding-left: 10px;
+			padding-bottom:10px;
+			margin-right: 10px;
+			padding-right:15px;
+		}
+		aside:nth-child(2n)
+		{
+			float: right; 
+			background-color: #FDE95E; 
+			width: 200px; 
+			height: 780px; 
+			margin-left: 10px; 
+			margin-right: 0px; 
+			font-size: 1.12em; 
+			padding-right: 10px;
+		}
+		section
+		{
+			font-size: 0,96em;
+			padding-right: 10px;
+			padding-top: 2px;
+			padding-left: : 2px;
+			padding-bottom: 2px;
+			width: 92%;
+		}
+		i
+		{
+			color: red;
+		}
+		footer 
+		{
+			margin-top: 696px;
+			background-color: #000000;
+			text-align: center;
+			height: 30px;
+			padding-top: 7px;
+		}
+		a
+		{
+			color: #FDE95E;
+		}

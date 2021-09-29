@@ -1,0 +1,56 @@
+.block1 { 
+   	position: static;
+    width: 130px; 
+    height: 90px;
+    background: blueviolet;
+    padding: 5px;
+   }
+   .block2 { 
+    width: 130px; 
+    height: 80px;
+    background: darkred; 
+    padding: 5px;
+    position: relative;
+   }
+   .block3
+   {
+   	width: 130px; 
+    height: 80px;
+    background: peru; 
+    padding: 5px;
+    position: relative;
+    top: -25px;
+    right: -25px;
+   }
+   .block4
+   {
+   	width: 550px; 
+    height: 405px;
+    background: indianred; 
+    padding: 5px;
+    position: relative;
+   }
+   .block4 > .block5
+   {
+   	width: 300px; 
+    height: 200px;
+    background: indigo; 
+    position: absolute;
+    right: 0px;
+    top: 120px;
+   }
+   .block6
+   {
+   	width: 97px;
+   	height: 100px;
+   	background: forestgreen;
+   	position: fixed;
+   	right: 0px;
+   	bottom: 0px;
+   }
+   p
+   {
+   	color: white;
+   	 margin-top: 0px;
+   	 vertical-align: baseline;
+   }

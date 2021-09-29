@@ -1,0 +1,12 @@
+section
+		{
+			width: 562px;
+			background-color: blue;
+			color: white;
+			font-size: 15px;
+		}
+.box
+            {
+                margin-left: auto;
+                margin-right: auto;
+            }
